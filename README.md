@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning (because you never stop learning I guess): Python, C, C#, Godot Game engine, and a lot of other less specific topics. See "About me:"
 - 🖥️ I've worked on / with:
   - Blazor C# Framework (realized a management software for a small company during an internship)
-  - C# libraries for game dialogues (in my github) just for fun
+  - C# libraries for game dialogues (in my github) just for fun. I used the WPF framework to create the editor
   - Embedded C software to retreive images from ONVIF compliant cameras. It was more a DEMO than not. It is not on my github, it was for the same company of before
   - Various project created during my university's course, some during my batchelor degree, some during the master degree. They are on github and they have their own description.
   - I have some experience with the Godot Game engine, but I've got bored every time before completing a project. I'm going to get something done sooner or later
