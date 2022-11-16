@@ -17,7 +17,7 @@
   - Still learning new stuff
 - 📫 How to reach me:
   - Write an email to ---> samuele_capacci@outlook.it <---
- - 👨🏻‍💻About Me:
+ - 👨🏻‍💻About me:
    - Graduate in Informatics Engineering at University of Cagliari. Actually the degree's name was "Electric, Electronic, Informatics Engineering", but it was more focused on the informatics part
    - Currently studying at University of Cagliari. I should end by 2024. This is the (master) course « https://www.unica.it/unica/en/crs_70_90.page »
    - Currently living / studying in italy. I can speak Italian (native language) and English (B2)
