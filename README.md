@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rudeus-Greyrat-00 AKA Samuele Capacci
 - 👀 I’m interested in C#, Godot, Gamedev, C, Python, AI, Operating Systems, would like to learn C++ at some point
-- 🌱 I’m currently learning (because you never stop learning I guess): Python, C, C#, Godot Game engine
+- 🌱 I’m currently learning (because you never stop learning I guess): Python, C, C#, Godot Game engine, and a lot of other less specific topics. See "About me:"
 - 🖥️ I've worked on / with:
   - Blazor C# Framework (realized a management software for a small company during an internship)
   - C# libraries for game dialogues (in my github) just for fun
