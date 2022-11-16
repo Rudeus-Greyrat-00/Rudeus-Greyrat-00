@@ -12,7 +12,7 @@
   - SQL and noSQL databases, SQL query, designing of ER databases
   - Operating Systems, process management in Linux, inter-process communication, pipes, system calls, still studying this at the time I'm writing this
   - Assembly MIPS
-  - Some internet and networking concept. I've used Cisco Packet Tracer for a bit, setting router and switch that use Cisco IOS operating system
+  - Some internet and networking concept. I've used Cisco Packet Tracer for a bit, setting router and switch that use Cisco IOS operating system (inside cisco packet tracer)
   - Some AI concepts, will update when the course will be finished
   - Still learning new stuff
 - 📫 How to reach me:
