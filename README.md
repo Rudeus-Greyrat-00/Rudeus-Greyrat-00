@@ -8,7 +8,7 @@
   -  Various project created during my university's course, some during my batchelor degree, some during the master degree. They are on github and they have their own description.
   -  Currently studying at University of Cagliari. I should end by 2024. This is the course « https://www.unica.it/unica/en/crs_70_90.page »
   -  I have some experience with the Godot Game engine, but I've got bored every time before completing a project. I'm going to get something done sooner or later
-  -  I have minimal experience with Unity, I created a couple of project (a very basic FPS game for a batchelor course, and an even more basic VR experience)
+  -  I have minimal experience with Unity, I created a couple of project (a very basic FPS game for a batchelor course, and an even more basic VR experience) they are not in my github. Actually, I've probably lost the VR one
 - 📙 I've studied at some point, but still not applied on any project:
   - SQL and noSQL databases, SQL query, designing of ER databases
   - Operating Systems, process management in Linux, inter-process communication, pipes, system calls, still studying this at the time I'm writing this
