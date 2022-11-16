@@ -22,7 +22,7 @@
    - Currently studying at University of Cagliari. I should end by 2024. This is the (master) course « https://www.unica.it/unica/en/crs_70_90.page »
    - Currently living / studying in italy. I can speak Italian (native language) and English (B2)
    - Born on 12/06/2000 (not sure if this info is useful at all)
-   - At the moment you can't find me in any social, and for the best, yeah it's definetely better to keep reddit and discord separated from work, isn't it?
+   - At the moment you can't find me in any social network, and for the best, yeah it's definetely better to keep reddit and discord separated from work, isn't it?
    - Yeah, I know that my profile pic is low res. No, I'm not going to do anything to address the problem
 
 <!---
